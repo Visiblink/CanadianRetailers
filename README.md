@@ -2,11 +2,11 @@
 A list of Canadian-owned retailers
 
 # Groceries
-Bulk Barn
-Extra Foods
-FreshCo
-IGA
-No Frills
+Bulk Barn  
+Extra Foods  
+FreshCo  
+IGA  
+No Frills  
 Save-On
 Shoppers Drug Mart
 Sobeys
