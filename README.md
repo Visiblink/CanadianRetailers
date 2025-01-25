@@ -1,7 +1,7 @@
 # CanadianRetailers
 A list of Canadian-owned retailers
 
-# Groceries
+## Groceries
 Bulk Barn  
 Extra Foods  
 FreshCo  
