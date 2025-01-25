@@ -19,10 +19,10 @@ Pharmasave
 Shoppers Drug Mart  
 
 ## Gas Stations
-Canadian Tire
+Canadian Tire  
 Canco  
 Domo  
-Federated Coop
+Federated Coop  
 Irving  
 MacEwan  
 Mobil  
