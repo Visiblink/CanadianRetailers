@@ -1,5 +1,6 @@
-# CanadianRetailers
-A list of Canadian-owned retailers
+# Canadian Retailers
+A list of Canadian-based retailers  
+Submit additions and corrections as pull requests
 
 ## Groceries
 Bulk Barn  
@@ -74,4 +75,4 @@ Indigo
 ## Toys
 Toys R Us Canada   
 
-Buy Local!
+### Buy Local!  
