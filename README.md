@@ -16,8 +16,8 @@ Thrifty Foods
 
 ## Pharmacies
 [London Drugs](https://londondrugs.com)  
-Pharmasave  
-Shoppers Drug Mart  
+[Pharmasave](https://pharmasave.com)  
+[Shoppers Drug Mart](https://shoppersdrugmart.ca)  
 
 ## Gas Stations
 Canadian Tire  
