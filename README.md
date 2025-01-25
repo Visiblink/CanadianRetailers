@@ -1,5 +1,5 @@
 # Canadian Retailers
-A list of Canadian-based retailers  
+A list of Canadian-owned/operated retailers  
 Submit additions and corrections as pull requests
 
 ## Groceries
