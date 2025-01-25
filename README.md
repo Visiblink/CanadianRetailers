@@ -1,6 +1,6 @@
 # Canadian Retailers
-A list of Canadian-owned/operated retailers  
-Submit additions and corrections as pull requests
+A list of Canadian-owned/operated retailers.  
+Submit additions and corrections as pull requests. Please include the retailer's name and URL.  
 
 ## Groceries
 Bulk Barn  
