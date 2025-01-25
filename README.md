@@ -33,6 +33,7 @@ Ultramar
 Wilson  
 
 ## Electronics
+Canada Computers  
 London Drugs  
 Staples  
 
