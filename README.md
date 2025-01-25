@@ -15,7 +15,7 @@ Superstore
 Thrifty Foods  
 
 ## Pharmacies
-[London Drugs]:londondrugs.com  
+[London Drugs](https://londondrugs.com)  
 Pharmasave  
 Shoppers Drug Mart  
 
