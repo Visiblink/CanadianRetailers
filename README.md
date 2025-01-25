@@ -39,34 +39,34 @@ London Drugs
 Staples  
 
 ## Clothing
-Marks  
+Mark's  
 Roots  
-Sport Chek  
 Simons  
+Sport Chek  
 
 ## Shoes
 Aldo  
 Factory Shoe  
 
-## Department Stores
+## Department/General Merchandise Stores
+The Bargain! Shop  
 Canadian Tire  
 Fields  
 Giant Tiger  
 Red Apple  
-The Bargain! Shop  
 
 ## Hardware
 Home Hardware  
+Kent  
 Rona  
 Peavey Mart  
 Princess Auto  
-Kent  
 
 ## Furniture
 The Brick  
 City Furniture  
-Sleep Country  
 Leon's  
+Sleep Country  
 Structube  
 
 ## Books
