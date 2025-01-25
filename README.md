@@ -13,51 +13,53 @@ Sobeys
 Superstore  
 Thrifty Foods  
 
-# Pharmacies
+## Pharmacies
 London Drugs  
-Shoppers Drug Mart  
 Pharmasave  
+Shoppers Drug Mart  
 
-# Gas Stations
+## Gas Stations
 Federated Coop
 
-# Electronics
+## Electronics
 London Drugs  
 Staples  
 
-# Clothing
-Simons  
-Sport Chek  
-Roots  
+## Clothing
 Marks  
+Roots  
+Sport Chek  
+Simons  
 
-# Shoes
-Factory Shoe  
+## Shoes
 Aldo  
+Factory Shoe  
 
-# Department Stores
+## Department Stores
 Canadian Tire  
 Fields  
+Giant Tiger  
 Red Apple  
 The Bargain! Shop  
-Giant Tiger  
 
-# Hardware
+## Hardware
 Home Hardware  
-Kent  
 Rona  
 Peavey Mart  
 Princess Auto  
+Kent  
 
-# Furniture
-City Furniture  
+## Furniture
 The Brick  
-Leon's  
+City Furniture  
 Sleep Country  
+Leon's  
 Structube  
 
-# Books
+## Books
 Indigo  
 
-# Toys
-Toys R Us Canada  
+## Toys
+Toys R Us Canada   
+
+Buy Local!
