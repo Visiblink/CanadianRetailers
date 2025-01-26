@@ -60,9 +60,9 @@ Red Apple
 ## Hardware
 Home Hardware  
 Kent  
-Rona  
 Peavey Mart  
 Princess Auto  
+[Rona](https://rona.ca/)    
 
 ## Furniture
 The Brick  
