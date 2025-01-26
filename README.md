@@ -39,14 +39,14 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [Visions Electronics](https://visions.ca)  
 
 ## Clothing
-Mark's  
-Roots  
-Simons  
-Sport Chek  
+[Mark's](https://marks.com)  
+[Roots](https://www.roots.com)  
+[Simons](https://www.simons.ca/en)  
+[Sport Chek](https://www.sportcheck.ca)  
 
 ## Shoes
-Aldo  
-Factory Shoe  
+[Aldo](https://www.aldoshoes.com/ca/en)  
+[Factory Shoe](https://www.factoryshoe.ca/_store/)  
 
 ## Department/General Merchandise Stores
 The Bargain! Shop  
