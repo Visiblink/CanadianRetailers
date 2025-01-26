@@ -21,16 +21,14 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [Shoppers Drug Mart](https://shoppersdrugmart.ca)  
 
 ## Gas Stations
-Canadian Tire  
-Canco  
-Domo  
-Federated Co-op  
-Irving  
-MacEwan  
-Mobil  
-OLCO  
-Petro-Canada  
-Pioneer  
+[Canadian Tire](https://canadiantire.ca)  
+[Canco](https://cancopetroleum.ca/)  
+[Domo](https://domo.ca/)  
+[Federated Co-op](https://www.fuel.crs/)  
+[Irving](https://www.irvingoil.com/en-CA/on-the-road/on-the-road)  
+[MacEwan](https://macewen.ca/)   
+[Petro-Canada](https://www.petro-canada.ca/en/personal)  
+[Pioneer](https://www.pioneer.ca/en/)  
 Ultramar  
 Wilson  
 
