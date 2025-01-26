@@ -33,7 +33,7 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [Couche-Tard](https://www.couche-tard.com/?lang=en)  
 
 ## Electronics
-[Andre's Electronic Experts](https://www.andreselectronicexperts.com/)
+[Andre's Electronic Experts](https://www.andreselectronicexperts.com/)  
 [Canada Computers](https://www.canadacomputers.com/en/)  
 [London Drugs](https://londondrugs.com)  
 [Visions Electronics](https://visions.ca)  
