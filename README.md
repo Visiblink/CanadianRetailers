@@ -46,6 +46,7 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [Roots](https://www.roots.com)  
 [Simons](https://www.simons.ca/en)  
 [Sport Chek](https://www.sportcheck.ca)  
+[Valhalla Pure Outfitters](https://vpo.ca/)  
 
 ## Shoes
 [Aldo](https://www.aldoshoes.com/ca/en)  
