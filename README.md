@@ -1,6 +1,6 @@
-![6-2-canada-flag-free-download-png](https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3)
+<img src="https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3" alt="Your image title" width="20vw"/>
 (CC BY-NC 4.0 from Irvin Pannell via freepngimg.com)  
-<img src="https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3" alt="Your image title" width="250"/>
+
 # Canadian Retailers
 A list of Canadian-owned/operated retailers.  
 Submit additions and corrections as pull requests. Please include the retailer's name and URL.  
