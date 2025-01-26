@@ -51,7 +51,7 @@ Factory Shoe
 
 ## Department/General Merchandise Stores
 The Bargain! Shop  
-Canadian Tire
+Canadian Tire  
 [Dollarama](https://www.dollarama.com/en-ca/)  
 Fields  
 Giant Tiger  
