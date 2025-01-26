@@ -24,7 +24,7 @@ Submit additions and corrections as pull requests. Please include the retailer's
 Canadian Tire  
 Canco  
 Domo  
-Federated Coop  
+Federated Co-op  
 Irving  
 MacEwan  
 Mobil  
