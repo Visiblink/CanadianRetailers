@@ -52,12 +52,12 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [Factory Shoe](https://www.factoryshoe.ca/_store/)  
 
 ## Department/General Merchandise Stores
-The Bargain! Shop  
-Canadian Tire  
+[The Bargain! Shop](https://www.thebargainshop.com/)  
+[Canadian Tire](https://www.canadiantire.ca/en.html)  
 [Dollarama](https://www.dollarama.com/en-ca/)  
-Fields  
-Giant Tiger  
-Red Apple  
+[Fields](https://fields.ca/)  
+[Giant Tiger](https://www.gianttiger.com/)  
+[Red Apple](https://www.redapplestores.com/)  
 
 ## Hardware
 Home Hardware  
