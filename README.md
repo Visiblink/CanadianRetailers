@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3" alt="Your image title" width="80vw"/><br>  
+<img src="https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3" alt="Your image title" width="80"/><br>  
 (CC BY-NC 4.0 from Irvin Pannell via freepngimg.com)  
 
 # Canadian Retailers
