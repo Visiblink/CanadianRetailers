@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3" alt="Your image title" width="140"/><br>  
-(CC BY-NC 4.0 from Irvin Pannell via freepngimg.com)  
+(Image: CC BY-NC 4.0 from Irvin Pannell via freepngimg.com)  
 
 # Canadian Retailers
 A list of Canadian-owned/operated retailers.  
@@ -61,10 +61,10 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [Red Apple](https://www.redapplestores.com/)  
 
 ## Hardware
-Home Hardware  
-Kent  
-Peavey Mart  
-Princess Auto  
+[Home Hardware](https://www.homehardware.ca/en/)  
+[Kent Building Supplies](https://kent.ca/)  
+[Peavey Mart](https://www.peaveymart.com/)  
+[Princess Auto](https://www.princessauto.com/)  
 [Rona](https://rona.ca/)    
 
 ## Furniture
