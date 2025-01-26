@@ -3,16 +3,17 @@ A list of Canadian-owned/operated retailers.
 Submit additions and corrections as pull requests. Please include the retailer's name and URL.  
 
 ## Groceries
-Bulk Barn  
-Extra Foods  
-FreshCo  
-IGA  
-No Frills  
-Save-On  
-Shoppers Drug Mart  
-Sobeys  
-Superstore  
-Thrifty Foods  
+[Bulk Barn](https://www.bulkbarn.ca/en/Products)  
+[FreshCo](https://freshco.com/)  
+[IGA British Columbia](https://www.igastoresbc.com)  
+[IGA Quebec](https://www.iga.net/en)  
+[IGA Western Canada](https://west.iga.ca/)  
+[No Frills](https://nofrills.ca)  
+[Real Canadian Superstore](http://realcanadiansuperstore.ca/)  
+[Save-On Foods](https://www.saveonfoods.com)  
+[Shoppers Drug Mart](https://shoppersdrugmart.ca)  
+[Sobeys](https://www.sobeys.com)  
+[Thrifty Foods](https://www.thriftyfoods.com)  
 
 ## Pharmacies
 [London Drugs](https://londondrugs.com)  
@@ -35,7 +36,7 @@ Wilson
 
 ## Electronics
 Canada Computers  
-London Drugs  
+[London Drugs](https://londondrugs.com)  
 Staples  
 
 ## Clothing
