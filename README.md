@@ -59,7 +59,7 @@ Open an issue to submit additions and corrections. Please include the retailer's
 [Giant Tiger](https://www.gianttiger.com/)  
 [Red Apple](https://www.redapplestores.com/)  
 
-## Hardware
+## Hardware and Building Supplies
 [Home Hardware](https://www.homehardware.ca/en/)  
 [Kent Building Supplies](https://kent.ca/)  
 [Peavey Mart](https://www.peaveymart.com/)  
