@@ -2,7 +2,7 @@
 (Image: CC BY-NC 4.0 from Irvin Pannell via freepngimg.com)  
 
 # Canadian Retailers
-A list of Canadian-owned/operated retailers.  
+#### A list of Canadian-owned/operated retailers.  
 Open an issue to submit additions and corrections. Please include the retailer's name and URL.  
 
 ## Groceries
