@@ -71,7 +71,7 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [The Brick](https://www.thebrick.com/)  
 [City Furniture](https://www.cityfurniturecanada.com/)  
 [Leon's](https://www.leons.ca)  
-[Sleep Country[(https://en.sleepcountry.ca/)  
+[Sleep Country](https://en.sleepcountry.ca/)  
 [Structube](https://www.structube.com/en_ca/home)  
 
 ## Books
