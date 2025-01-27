@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3" alt="Your image title" width="140"/><br>  
-(Image: CC BY-NC 4.0 from Irvin Pannell via freepngimg.com)  
-
+<img src="https://github.com/user-attachments/assets/6461882b-3594-4b85-be8d-57223eb94ae3" alt="Your image title" width="140"/><br>
 # Canadian Retailers
 #### A list of Canadian-owned/operated retailers.  
 Open an issue to submit additions and corrections. Please include the retailer's name and URL.  
@@ -82,3 +80,4 @@ Open an issue to submit additions and corrections. Please include the retailer's
 [Toys R Us Canada](https://www.toysrus.ca/)   
 
 ### Buy Local!  
+Flag Image: CC BY-NC 4.0 from Irvin Pannell via freepngimg.com  
