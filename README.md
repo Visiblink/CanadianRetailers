@@ -68,16 +68,16 @@ Submit additions and corrections as pull requests. Please include the retailer's
 [Rona](https://rona.ca/)    
 
 ## Furniture
-The Brick  
-City Furniture  
-Leon's  
-Sleep Country  
-Structube  
+[The Brick](https://www.thebrick.com/)  
+[City Furniture](https://www.cityfurniturecanada.com/)  
+[Leon's](https://www.leons.ca)  
+[Sleep Country[(https://en.sleepcountry.ca/)  
+[Structube](https://www.structube.com/en_ca/home)  
 
 ## Books
-Indigo  
+[Indigo, Chapters & Coles](https://www.indigo.ca/en-ca/)  
 
 ## Toys
-Toys R Us Canada   
+[Toys R Us Canada](https://www.toysrus.ca/)   
 
 ### Buy Local!  
