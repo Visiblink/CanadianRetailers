@@ -42,7 +42,6 @@ Open an issue to submit additions and corrections. Please include the retailer's
 
 ## Clothing
 [Mark's](https://marks.com)  
-[Roots](https://www.roots.com)  
 [Simons](https://www.simons.ca/en)  
 [Sport Chek](https://www.sportcheck.ca)  
 [Valhalla Pure Outfitters](https://vpo.ca/)  
@@ -64,7 +63,6 @@ Open an issue to submit additions and corrections. Please include the retailer's
 [Kent Building Supplies](https://kent.ca/)  
 [Peavey Mart](https://www.peaveymart.com/)  
 [Princess Auto](https://www.princessauto.com/)  
-[Rona](https://rona.ca/)    
 
 ## Furniture
 [The Brick](https://www.thebrick.com/)  
