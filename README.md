@@ -48,6 +48,7 @@ Open an issue to submit additions and corrections. Please include the retailer's
 
 ## Shoes
 [Aldo](https://www.aldoshoes.com/ca/en)  
+[Browns Shoes](https://www.brownsshoes.com/)  
 [Factory Shoe](https://www.factoryshoe.ca/_store/)  
 
 ## Department/General Merchandise Stores
