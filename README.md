@@ -21,7 +21,7 @@ Open an issue to submit additions and corrections. Please include the retailer's
 [Pharmasave](https://pharmasave.com)  
 [Shoppers Drug Mart](https://shoppersdrugmart.ca)  
 
-## Gas Stations
+## Gas Stations / Convenience Stores
 [Canadian Tire](https://canadiantire.ca)  
 [Canco](https://cancopetroleum.ca/)  
 [Domo](https://domo.ca/)  
