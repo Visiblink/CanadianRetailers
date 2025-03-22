@@ -38,6 +38,7 @@ Open an issue to submit additions and corrections. Please include the retailer's
 [Creatron Inc](https://creatroninc.com/)  
 [Canada Computers](https://www.canadacomputers.com/en/)  
 [London Drugs](https://londondrugs.com)  
+[Memory Express](https://www.memoryexpress.com/)  
 [Visions Electronics](https://visions.ca)  
 
 ## Clothing
