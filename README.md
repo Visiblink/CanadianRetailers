@@ -36,7 +36,7 @@ Open an issue to submit additions and corrections. Please include the retailer's
 ## Electronics
 [Andre's Electronic Experts](https://www.andreselectronicexperts.com/)  
 [Creatron Inc](https://creatroninc.com/)  
-[Canada Computers](https://www.canadacomputers.com/en/) [but see Reddit reviews] 
+[Canada Computers](https://www.canadacomputers.com/en/) 
 [London Drugs](https://londondrugs.com)  
 [Memory Express](https://www.memoryexpress.com/)  
 [Visions Electronics](https://visions.ca)  
