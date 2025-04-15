@@ -44,7 +44,7 @@ Open an issue to submit additions and corrections. Please include the retailer's
 ## Clothing
 [Mark's](https://marks.com)  
 [Simons](https://www.simons.ca/en)  
-[Sport Chek](https://www.sportcheck.ca)  
+[Sport Chek](https://www.sportchek.ca)  
 [Valhalla Pure Outfitters](https://vpo.ca/)  
 
 ## Shoes
