@@ -39,7 +39,11 @@ Open an issue to submit additions and corrections. Please include the retailer's
 [Canada Computers](https://www.canadacomputers.com/en/)  
 [London Drugs](https://londondrugs.com)  
 [Memory Express](https://www.memoryexpress.com/)  
+[PrimeCables](https://www.primecables.ca/)  
 [Visions Electronics](https://visions.ca)  
+
+## Office Supplies  
+[123ink.ca](https://www.123ink.ca/)  
 
 ## Clothing
 [Mark's](https://marks.com)  
@@ -59,6 +63,7 @@ Open an issue to submit additions and corrections. Please include the retailer's
 [Fields](https://fields.ca/)  
 [Giant Tiger](https://www.gianttiger.com/)  
 [Red Apple](https://www.redapplestores.com/)  
+[Shopper+](https://www.shopperplus.ca/)  
 
 ## Hardware and Building Supplies
 [Home Hardware](https://www.homehardware.ca/en/)  
