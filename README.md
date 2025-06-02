@@ -3,6 +3,9 @@
 #### A list of Canadian-owned/operated retailers.  
 Open an issue to submit additions and corrections. Please include the retailer's name and URL.  
 
+## Internet Services 
+[View List](https://worktree.ca/taffer/canadian-alternatives)
+
 ## Groceries
 [Bulk Barn](https://www.bulkbarn.ca/en/Products)  
 [FreshCo](https://freshco.com/)  
