@@ -39,7 +39,8 @@ Open an issue to submit additions and corrections. Please include the retailer's
 ## Electronics
 [Andre's Electronic Experts](https://www.andreselectronicexperts.com/)  
 [Creatron Inc](https://creatroninc.com/)  
-[Canada Computers](https://www.canadacomputers.com/en/)^[Credit Card Breach (https://old.reddit.com/r/bapccanada/comments/1qk4axy/canada_computers_online_card_skimmer/) (https://www.reddit.com/r/bapcsalescanada/comments/1qn80rr/psa_email_regarding_security_breach_see_comments/)]
+[Canada Computers](https://www.canadacomputers.com/en/) Credit Card Breach: see https://old.reddit.com/r/bapccanada/comments/1qk4axy/canada_computers_online_card_skimmer/ and https://www.reddit.com/r/bapcsalescanada/comments/1qn80rr/psa_email_regarding_security_breach_see_comments/
+
 [London Drugs](https://londondrugs.com)  
 [Memory Express](https://www.memoryexpress.com/)  
 [PrimeCables](https://www.primecables.ca/)  
